@@ -12,7 +12,6 @@
 	  The eight next sheets contain the p-value obtained after the pairwise comparison (p.n, p.pb, p.ks, p.FC, p.WDPT, p.pH, p.ASI)
 
   Plastic_mulch-soil_properties_Analysis.R <br />
-	contains the script to perform to: <br />
 	  - calculate the estimated bulk density with the measure of porosity and the plastic content<br />
 	  - perform the linear regressions between the measured parameters<br />
 	  - perform the principal component analysis<br />
