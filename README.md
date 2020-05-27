@@ -18,7 +18,7 @@
 	  - perform the principal component analysis
   	- plot the estimates for each each parameter and each combination of the factors Content*Type*Size
 
-# Abbreviations : 
+# Abbreviations
 	n, Porosity
 	pb, Dry bulk density 
 	ks, Saturated hydraulic conductivity
