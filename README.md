@@ -18,4 +18,12 @@
 	  - perform the principal component analysis
   	- plot the estimates for each each parameter and each combination of the factors Content*Type*Size
 
-
+# Abbreviations : 
+	n, Porosity
+	pb, Dry bulk density 
+	ks, Saturated hydraulic conductivity
+	FC, Field capacity (gravimetric water content at pF2) 
+	WDPT, Water drop penetration time
+	pH, Potential for hydrogen
+	EC, Electrical conductivity 
+	ASI, Aggregates stability index
