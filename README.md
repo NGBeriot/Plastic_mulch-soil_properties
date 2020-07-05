@@ -1,5 +1,6 @@
 # Plastic_mulch-soil_properties
-  Raw data and script for generating the graphs published in : citation
+  Raw data and script for generating the graphs published in :
+  Qi, Y., N. Beriot, G. Gort, E. Huerta Lwanga, H. Gooren, X. Yang and V. Geissen (2020). "Impact of plastic mulch film debris on soil physicochemical and hydrological properties."   Environmental Pollution 266: 115097. https://doi.org/10.1016/j.envpol.2020.115097
 
 # Content description
   Raw_Data_Beriot.xlsx<br />
